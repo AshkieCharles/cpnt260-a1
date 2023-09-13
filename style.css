@@ -18,25 +18,26 @@ a:hover {
   text-decoration: underline;
 }
 
-.cabal {
-  list-style-image: url(/images/cabal.jpeg);
+/*This line of code was taken from https://stackoverflow.com/a/40021713*/
+/*I tried to do a custom image for each bullet point but had to use a pseudo element to accomplish it*/
+li {
+	margin: 0;
+	padding: 36px 0 36px 84px;
+	list-style: none;
+	
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 75px;
+  
+  border-radius: 50%;
   
 }
-
-li {
-  list-style: none;
-}
-li::before {
-  content: '';
-  display: inline-block;
-  height: y;
-  width: x;
-}
-
 li.fallen {
-  background-image: url();
+  background-image: url(/images/Fallen_Avatar.webp);
 }
 
 li.cabal {
-  background-image: url();
+  background-image: url(/images/cabal.jpeg);
+ 
 }
+
