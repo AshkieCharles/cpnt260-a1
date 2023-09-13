@@ -33,17 +33,17 @@ li {
 }
 
 li.fallen {
-  background-image: url(/images/Fallen_Avatar.webp);
+  background-image: url(images/Fallen_Avatar.webp);
 }
 li.cabal {
-  background-image: url(/images/cabal.jpeg);
+  background-image: url(images/cabal.jpeg);
 }
 li.vex{
-  background-image: url(/images/cabal.jpeg);
+  background-image: url(images/cabal.jpeg);
 }
 li.hive{
-  background-image: url(/images/cabal.jpeg);
+  background-image: url(images/cabal.jpeg);
 }
 li.taken{
-  background-image: url(/images/cabal.jpeg);
+  background-image: url(images/cabal.jpeg);
 }
