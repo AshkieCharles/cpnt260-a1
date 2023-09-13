@@ -3,17 +3,19 @@ body{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   line-height: 1.5;
   background-image: url(images/traveler.PNG);
-  background-position-x: 15%;
+  background-position-x: 9%;
+  background-position-y: 50%;
   background-attachment: fixed;
 }
 
 main{
   margin: auto;
   padding: 2rem;
+  max-width: 75%;
+  
   margin-top: 3ch;
   border-top: 20cm;
-  max-width: 75%;
-
+  margin-bottom: 3ch;
   border: 10cm;
   background-image:url(images/white.JPEG);
   
