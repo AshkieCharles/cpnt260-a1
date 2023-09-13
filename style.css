@@ -31,9 +31,9 @@ li {
 	background-size: 75px;
   
 }
-
+/*The images all have capitals for their assignment is because github is case sensitive and, it works when I do it like that and doesn't when I don't*/
 li.fallen {
-  background-image: url(images/Fallen_Avatar.webp);
+  background-image: url(images/Fallen_Avatar.JPG);
 }
 li.cabal {
   background-image: url(images/cabal.JPG);
