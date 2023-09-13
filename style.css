@@ -1,11 +1,28 @@
-main{
-
-}
-
 body{
-
+  font-size: 22px;
+  line-height: 1.5;
 }
+main{
+  margin: auto;
+}
+
 
 h1 {
   font-weight: bold;
+}
+
+h2{
+
+}
+
+.enemylogo {
+  float: left;
+  width: 5ch;
+
+  margin-left: 1rem;
+  margin-right: 1rem;
+  border-radius: 50%;
+  }
+a:hover {
+  text-decoration: underline;
 }
