@@ -2,27 +2,41 @@ body{
   font-size: 22px;
   line-height: 1.5;
 }
+
 main{
   margin: auto;
+  padding: 2rem;
 }
 
 
-h1 {
+h1,h2 {
   font-weight: bold;
 }
 
-h2{
 
-}
-
-.enemylogo {
-  float: left;
-  width: 5ch;
-
-  margin-left: 1rem;
-  margin-right: 1rem;
-  border-radius: 50%;
-  }
 a:hover {
   text-decoration: underline;
+}
+
+.cabal {
+  list-style-image: url(/images/cabal.jpeg);
+  
+}
+
+li {
+  list-style: none;
+}
+li::before {
+  content: '';
+  display: inline-block;
+  height: y;
+  width: x;
+}
+
+li.fallen {
+  background-image: url();
+}
+
+li.cabal {
+  background-image: url();
 }
