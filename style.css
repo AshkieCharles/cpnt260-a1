@@ -22,22 +22,27 @@ a:hover {
 /*I tried to do a custom image for each bullet point but had to use a pseudo element to accomplish it*/
 li {
 	margin: 0;
-	padding: 36px 0 36px 84px;
+	padding: 3.5ch 0 36px 84px;
 	list-style: none;
 	
 	background-repeat: no-repeat;
 	background-position: left center;
 	background-size: 75px;
   
-  border-radius: 50%;
-  
 }
+
 li.fallen {
   background-image: url(/images/Fallen_Avatar.webp);
 }
-
 li.cabal {
   background-image: url(/images/cabal.jpeg);
- 
 }
-
+li.vex{
+  background-image: url(/images/cabal.jpeg);
+}
+li.hive{
+  background-image: url(/images/cabal.jpeg);
+}
+.taken{
+  background-image: url(/images/cabal.jpeg);
+}
