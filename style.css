@@ -2,11 +2,21 @@ body{
   font-size: 22px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   line-height: 1.5;
+  background-image: url(images/traveler.PNG);
+  background-position-x: 15%;
+  background-attachment: fixed;
 }
 
 main{
   margin: auto;
   padding: 2rem;
+  margin-top: 3ch;
+  border-top: 20cm;
+  max-width: 75%;
+
+  border: 10cm;
+  background-image:url(images/white.JPEG);
+  
 }
 
 
