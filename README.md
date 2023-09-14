@@ -9,4 +9,5 @@ Vex:
 Hive:
 Taken:
 Traveler-background:https://www.blueberries.gg/items/best-destiny-2-wallpapers/
+forsaken:https://www.pixel4k.com/destiny-2-forsaken-ps4-official-concept-art-38792.html
 

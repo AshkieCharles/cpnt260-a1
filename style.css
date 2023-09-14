@@ -2,16 +2,17 @@ body{
   font-size: 22px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   line-height: 1.5;
-  background-image: url(images/traveler.PNG);
+  background-image: url(images/forsaken.JPEG);
   background-position-x: 9%;
   background-position-y: 50%;
   background-attachment: fixed;
+  background-size: 100%;
 }
 
 main{
   margin: auto;
   padding: 2rem;
-  max-width: 75%;
+  max-width: 60%;
   
   margin-top: 3ch;
   border-top: 20cm;
@@ -26,6 +27,20 @@ h1,h2 {
   font-weight: bold;
 }
 
+.header {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: normal;
+  
+
+  height: auto;
+  width: 230px;
+  margin: auto;
+  padding-top: 10px;  
+
+  background-color: none;
+  color: white;
+}
 
 a:hover {
   text-decoration: underline;
