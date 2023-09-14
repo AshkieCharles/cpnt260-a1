@@ -21,3 +21,10 @@ destiny-2-forsaken-ps4-official-concept-art-38792.html
 
 ghost-logo:https://www.freepnglogos.com/images/download-destiny-logo-31090.html
 
+---------------
+Sources for each illustration-
+Fallen:https://www.destinypedia.com/File:The_Ruling_House_image.jpg
+Cabal:https://www.destinypedia.com/File:Grimoire_The_Cabal.jpg
+Vex:https://www.destinypedia.com/File:Grimoire_The_Vex.jpg
+Hive:https://www.destinypedia.com/File:Destiny-2-Artwork-Grimoire-Anthology-Piotr-Jablonski-The-Three-Sisters.jpg
+Taken:https://www.destinypedia.com/File:Grimoire_Taken.jpg
