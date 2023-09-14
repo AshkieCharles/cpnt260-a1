@@ -77,17 +77,17 @@ li {
 
 /*The images all have capitals for their assignment is because github is case sensitive and, it works when I do it like that and doesn't when I don't*/
 li.fallen {
-  background-image: url(images/fallen_logo.PNG);
+  background-image: url(images/beyond-light-svgrepo-com.PNG);
 }
 li.cabal {
-  background-image: url(images/cabal.PNG);
+  background-image: url(images/cabal_logo.PNG);
 }
 li.vex{
-  background-image: url(images/cabal.PNG);
+  background-image: url(images/vex_logo.PNG);
 }
 li.hive{
-  background-image: url(images/cabal.PNG);
+  background-image: url(images/thehive.PNG);
 }
 li.taken{
-  background-image: url(images/cabal.PNG);
+  background-image: url(images/taken.PNG);
 }
