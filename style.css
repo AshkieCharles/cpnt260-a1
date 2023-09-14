@@ -1,4 +1,4 @@
-body{
+body {
   font-size: 22px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   line-height: 1.5;
@@ -12,41 +12,44 @@ body{
   background-repeat: no-repeat;
   /*Keeps the background image centered even when mobile*/
   background-position: center center;
-  
 }
 
-main{
+main {
   margin: auto;
-  padding: 2rem;
-  max-width: 60%;
-  
   margin-top: 3ch;
-  border-top: 20cm;
   margin-bottom: 3ch;
+  padding: 3rem;
+  
+  max-width: 60%;
+ 
+  border-top: 20cm;
   border: 10cm;
   /*I found out about rgba through this code: https://stackoverflow.com/a/5135033*/
-  background-color:rgba(11, 11, 11, 0.699)    /*  rgb, the last part is the opacity option */ ;
-  border-radius: 30px
+  border-radius: 30px;
+  
+  font-weight:lighter;
+  color: rgba(234, 221, 203, 0.866);
+  background-color:rgba(11, 11, 11, 0.95)    /*  rgb, the last part is the opacity option */ ;
 }
 
-
-h1,h2 {
-  font-weight: bold;
-}
 
 .header {
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
   font-weight: normal;
   
-
+  
   height: auto;
   width: 230px;
   margin: auto;
   padding-top: 10px;  
-
+  
   background-color: none;
   color: white;
+}
+
+h2 {
+  font-weight: bold;
 }
 
 a:hover {
@@ -91,3 +94,25 @@ li.hive{
 li.taken{
   background-image: url(images/taken.PNG);
 }
+
+table {
+  float: right;
+  text-align:center;
+  color: rgb(234, 221, 203);
+  
+}
+
+tr {
+  background-color:rgba(11, 11, 11, 0.95)
+  border-radius: 50%;
+}
+
+.enemyimg {
+  float: right;
+  max-width: 10ch;
+  border-radius: 10px;
+  margin-left: 15px;
+  display: block;
+  margin-left: 0ch;
+}
+
