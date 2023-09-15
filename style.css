@@ -57,9 +57,7 @@ h2 {
 }
 
 
-a:hover {
-  text-decoration: underline;
-}
+
 
 /*This line of code was taken from https://stackoverflow.com/a/40021713*/
 /*I tried to do a custom image for each bullet point but had to use a pseudo element to accomplish it*/
@@ -124,4 +122,26 @@ tr {
 
 .gametitle {
   font-style: italic;
+}
+
+a, a:visited {
+  font-family: Impact, 'Arial Narrow Bold', sans-serif;
+  text-decoration: none;
+  
+  display: inline-block;
+
+  
+  color: hsl(210, 17%, 95%);
+
+}
+
+/* Hover state */
+a:hover {
+  color: hsl(0, 100%, 50%);
+
+}
+
+/* Click state */
+a:active {
+  color: hsl(69, 78%, 49%);
 }
