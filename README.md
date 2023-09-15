@@ -28,3 +28,6 @@ Cabal:https://www.destinypedia.com/File:Grimoire_The_Cabal.jpg
 Vex:https://www.destinypedia.com/File:Grimoire_The_Vex.jpg
 Hive:https://www.destinypedia.com/File:Destiny-2-Artwork-Grimoire-Anthology-Piotr-Jablonski-The-Three-Sisters.jpg
 Taken:https://www.destinypedia.com/File:Grimoire_Taken.jpg
+
+-------
+Above and beyond

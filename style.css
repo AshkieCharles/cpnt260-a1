@@ -24,24 +24,27 @@ main {
  
   border-top: 20cm;
   border: 10cm;
-  /*I found out about rgba through this code: https://stackoverflow.com/a/5135033*/
   border-radius: 30px;
   
   font-weight:lighter;
+  /*I found out about rgba through this code: https://stackoverflow.com/a/5135033*/
   color: rgba(234, 221, 203, 0.866);
   background-color:rgba(11, 11, 11, 0.95)    /*  rgb, the last part is the opacity option */ ;
 }
 
 
-.header {
+header {
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
+  letter-spacing: 2rem;
   
   height: auto;
   width: 230px;
-  margin: auto;
-  padding-top: 10px;  
+  margin:auto;
+  padding-top: 10px; 
+  /*Padding right is added as the lines-pacing ruins the title being centred and this extra padding is needed to center the title.*/ 
+  padding-right: 11vw;
   
   background-color: none;
   color: white;
@@ -117,8 +120,7 @@ tr {
   max-width: 10ch;
   border-radius: 10px;
   display: block;
-  
-  /*the reason why it is at zero value is because it is need to line up the image with the title above.*/
+  /*the reason why it is at zero value is because it is needed to line up the image with the title above.*/
   margin-left: 0ch;
 }
 
