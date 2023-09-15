@@ -36,8 +36,7 @@ main {
 .header {
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
-  font-weight: normal;
-  
+  font-weight: bold;
   
   height: auto;
   width: 230px;
@@ -50,6 +49,11 @@ main {
 
 h2 {
   font-weight: bold;
+  text-align: center;
+}
+
+.gametitle {
+  font-style: italic;
 }
 
 a:hover {
@@ -60,7 +64,7 @@ a:hover {
 /*I tried to do a custom image for each bullet point but had to use a pseudo element to accomplish it*/
 li {
 	margin: 0;
-  /*I would have loved to lower the space between the description and titles but it the titles would no longer be centered with the logos.*/
+  /*I would have loved to lower the space between the description and titles but the titles would no longer be centered with the logos.*/
 	padding: 3.5ch 0 36px 84px;
 	list-style: none;
 	
