@@ -124,7 +124,7 @@ tr {
   font-style: italic;
 }
 
-a, a:visited {
+a.wikisource, a.wikisource:visited {
   font-family: Impact, 'Arial Narrow Bold', sans-serif;
   text-decoration: none;
   
@@ -136,12 +136,12 @@ a, a:visited {
 }
 
 /* Hover state */
-a:hover {
+a.wikisource:hover {
   color: hsl(0, 100%, 50%);
 
 }
 
 /* Click state */
-a:active {
+a.wikisource:active {
   color: hsl(69, 78%, 49%);
 }
