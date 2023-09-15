@@ -6,7 +6,7 @@ body {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   line-height: 1.5;
 
-  background-image: url(/images/forsaken.PNG);
+  background-image: url(../images/forsaken.PNG);
   background-position-x: 9%;
   background-position-y: 50%;
   background-attachment: fixed;
@@ -87,19 +87,19 @@ li {
 
 /*The images all have capitals for their assignment is because github is case sensitive and, it works when I do it like that and doesn't when I don't*/
 li.fallen {
-  background-image: url(images/beyond-light-svgrepo-com.PNG);
+  background-image: url(../images/beyond-light-svgrepo-com.PNG);
 }
 li.cabal {
-  background-image: url(images/cabal_logo.PNG);
+  background-image: url(../images/cabal_logo.PNG);
 }
 li.vex{
-  background-image: url(images/vex_logo.PNG);
+  background-image: url(../images/vex_logo.PNG);
 }
 li.hive{
-  background-image: url(images/thehive.PNG);
+  background-image: url(../images/thehive.PNG);
 }
 li.taken{
-  background-image: url(images/taken.PNG);
+  background-image: url(../images/taken.PNG);
 }
 
 table {
