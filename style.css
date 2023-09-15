@@ -1,7 +1,7 @@
 body {
   font-size: 22px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  line-height: 1.5;
+  line-height: 3ch;
 
   background-image: url(images/forsaken.JPEG);
   background-position-x: 9%;
@@ -27,6 +27,7 @@ main {
   border-radius: 30px;
   
   font-weight:lighter;
+  font-size: clamp(1rem, 1.5rem, 3rem);
   /*I found out about rgba through this code: https://stackoverflow.com/a/5135033*/
   color: rgba(234, 221, 203, 0.866);
   background-color:rgba(11, 11, 11, 0.95)    /*  rgb, the last part is the opacity option */ ;
