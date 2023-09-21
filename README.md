@@ -35,8 +35,8 @@ Taken:https://www.destinypedia.com/File:Grimoire_Taken.jpg
 
 -------
 Above and beyond:
-clamp: (css) line 30
-letter-spacing: (css) line 41
-nested list: (html) lines 34,48,62,74,86
-images : (html) lines 29, 42, 55, 69, 81
+clamp:(css) line 30
+letter-spacing:(css) line 41
+nested list:(html) lines 34,48,62,74,86
+images:(html) lines 29, 42, 55, 69, 81
 
