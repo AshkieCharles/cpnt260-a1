@@ -2,7 +2,7 @@ Course: CPNT 260 - Web Page Construction Fundamentals
 Assignment Name: Assignment 1 - Text Column
 Author Name: Ashkie Esperanza
 GH Page Site: https://ashkiecharles.github.io/cpnt260-a1-loresummary/
-sources for images:
+## sources for images:
 
 Fallen:https://chimodos.artstation.com/projects/rAqKXG
 
@@ -22,7 +22,7 @@ destiny-2-forsaken-ps4-official-concept-art-38792.html
 ghost-logo:https://www.freepnglogos.com/images/download-destiny-logo-31090.html
 
 ---------------
-Sources for each illustration-
+## Sources for each illustration-
 Fallen:https://www.destinypedia.com/File:The_Ruling_House_image.jpg
 Cabal:https://www.destinypedia.com/File:Grimoire_The_Cabal.jpg
 Vex:https://www.destinypedia.com/File:Grimoire_The_Vex.jpg
